@@ -1,0 +1,2 @@
+Model,Train Samples,Validation Samples,Test Samples,Qubits,Best C,Accuracy,Precision,Recall/Sensitivity,Specificity,F1-Score,ROC-AUC,Average Precision
+QSVM,500,200,500,6,1.0,0.8,0.8617363344051447,0.8246153846153846,0.7542857142857143,0.8427672955974843,0.8192791208791207,0.8735175745123173
